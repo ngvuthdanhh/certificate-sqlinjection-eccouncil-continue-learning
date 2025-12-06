@@ -5,7 +5,7 @@
 - Allows attackers to read, modify, or delete database data.
 
 ## Why Important?
-- SQLi is among the **OWASP Top 10**.
+- SQLi is among the **OWASP Top 10**
 - Still found in modern applications despite awareness.
 
 ## Key Impacts
